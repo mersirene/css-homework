@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+}
+
+string {
+    background-color: white;
+    font-size: small;
+    text-align: right;
+    display: block;
+}
+
+/*USING CLASSESbody {*/
+/*    background-color: black;*/
+/*}*/
+
+/*.inline {*/
+/*    color: white;*/
+/*    background-color: green;*/
+/*}*/
+
+/*.internal {*/
+/*    color: red;*/
+/*    text-align: center;*/
+/*    font-size: larger;*/
+/*    margin-top: 15px;*/
+/*    margin-bottom: 15px;*/
+/*}*/
+
+/*.external {*/
+/*    background-color: white;*/
+/*    font-size: small;*/
+/*    text-align: right;*/
+/*}*/
